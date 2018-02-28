@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "category": "Monitor",
+        "manufacturer": "LG",
+        "title": "Monitor TN 24",
+        "owner": "Alina",
+        "description": "Lorem",
+        "modified": "October 27",
+        "archived": "No"
+    },
+    {
+        "id": 1,
+        "category": "Monitor",
+        "manufacturer": "LG",
+        "title": "Owner",
+        "owner": "",
+        "description": "",
+        "modified": "",
+        "archived": "No"
+    }
+]
